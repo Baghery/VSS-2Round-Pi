@@ -1,5 +1,5 @@
 # On Round Optimal Computational VSS
-This repository contains the source code for implementations of round-optimal VSS schemes presented in the paper tittled [On Round-Optimal Computational VSS](https://cic.iacr.org/) published at [IACR Communications in Cryptology](https://cic.iacr.org/).
+This repository contains the source code for implementations of round-optimal VSS schemes presented in the paper tittled [On Round-Optimal Computational VSS](https://cic.iacr.org/) published at [IACR Communications in Cryptology](https://cic.iacr.org/). The implementations are done in collaboration with Mahdi Rahimi and Navid Ghaedi Bardeh.
 
 ## Overview
 Current implementation is done using SageMath and the code includes the implementaiton of following schemes: 
